@@ -1,0 +1,1624 @@
+{
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "The Queen song 'A Kind Of Magic' is featured in which 1986 film?",
+      "correct_answer": "Highlander",
+      "incorrect_answers": ["Flash Gordon", "Labyrinth", "Howard the Duck"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Which of the following was not one of 'The Magnificent Seven'?",
+      "correct_answer": "Clint Eastwood",
+      "incorrect_answers": ["Steve McQueen", "Charles Bronson", "Robert Vaughn"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Who directed 'E.T. the Extra-Terrestrial' (1982)?",
+      "correct_answer": "Steven Spielberg",
+      "incorrect_answers": ["Stanley Kubrick", "James Cameron", "Tim Burton"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "The 2002 film '28 Days Later' is mainly set in which European country?",
+      "correct_answer": "United Kingdom",
+      "incorrect_answers": ["France", "Italy", "Germany"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Who directed the 2015 movie 'The Revenant'?",
+      "correct_answer": "Alejandro G. Inarritu",
+      "incorrect_answers": [
+        "Christopher Nolan",
+        "David Fincher",
+        "Wes Anderson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "In the 2012 film, 'The Lorax', who is the antagonist?",
+      "correct_answer": "Aloysius O'Hare",
+      "incorrect_answers": ["Ted Wiggins", "The Once-Ler", "Grammy Norma"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Which of these films is NOT set in Los Angeles?",
+      "correct_answer": "RoboCop",
+      "incorrect_answers": ["Blade Runner", "The Terminator", "Predator 2"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Where does the original Friday The 13th movie take place?",
+      "correct_answer": "Camp Crystal Lake",
+      "incorrect_answers": ["Packanack", "Higgins Haven", "Camp Forest Green"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+      "correct_answer": "My Neighbor Totoro",
+      "incorrect_answers": [
+        "Hop",
+        "Rise of the Guardians",
+        "Alice in Wonderland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Which of the following is not the name of a 'Bond Girl'? ",
+      "correct_answer": "Vanessa Kensington",
+      "incorrect_answers": ["Pam Bouvier", "Mary Goodnight", "Wai Lin"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "In the 1992 film 'Army of Darkness', what name does Ash give to his double-barreled shotgun?",
+      "correct_answer": "Boomstick",
+      "incorrect_answers": ["Bloomstick", "Blastbranch", "2-Pump Chump"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Which actress danced the twist with John Travolta in 'Pulp Fiction'?",
+      "correct_answer": "Uma Thurman",
+      "incorrect_answers": ["Kathy Griffin", "Pam Grier", "Bridget Fonda"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "What breed of dog was Marley in the film 'Marley and Me' (2008)?",
+      "correct_answer": "Labrador Retriever",
+      "incorrect_answers": ["Golden Retriever", "Dalmatian", "Shiba Inu"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+      "correct_answer": "San Fransokyo",
+      "incorrect_answers": ["San Tokyo", "Tokysisco", "Sankyo"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Which of these movies did Jeff Bridges not star in?",
+      "correct_answer": "The Hateful Eight",
+      "incorrect_answers": ["Tron: Legacy", "The Giver", "True Grit"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-lll?",
+      "correct_answer": "Ewan McGregor",
+      "incorrect_answers": [
+        "Alec Guinness",
+        "Hayden Christensen",
+        "Liam Neeson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "In the 1995 film 'Balto', who are Steele's accomplices?",
+      "correct_answer": "Kaltag, Nikki, and Star",
+      "incorrect_answers": [
+        "Dusty, Kirby, and Ralph",
+        "Nuk, Yak, and Sumac",
+        "Jenna, Sylvie, and Dixie"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Who plays Jack Burton in the movie 'Big Trouble in Little China?'",
+      "correct_answer": "Kurt Russell",
+      "incorrect_answers": ["Patrick Swayze", "John Cusack", "Harrison Ford"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "This movie contains the quote, 'Houston, we have a problem.'",
+      "correct_answer": "Apollo 13",
+      "incorrect_answers": ["The Right Stuff", "Capricorn One", "Marooned"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "film",
+      "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+      "correct_answer": "Jack Black",
+      "incorrect_answers": [
+        "Mirana Jonnes",
+        "McConahey Ramses",
+        "Jim Petersson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Which iconic character is featured in movies such as 'The Enforcer', 'Sudden Impact', and 'The Dead Pool'?",
+      "correct_answer": "Dirty Harry",
+      "incorrect_answers": ["Indiana Jones", "James Bond", "Harry Potter"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film 'Beyond the Sea'?",
+      "correct_answer": "Bobby Darin",
+      "incorrect_answers": ["Louis Armstrong", "Frank Sinatra", "Dean Martin"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "The 1939 movie 'The Wizard of Oz' contained a horse that changed color, what material did they use to achieve this effect?",
+      "correct_answer": "Gelatin",
+      "incorrect_answers": ["Dye", "Paint", "CGI Effect"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Which movie sequel had improved box office results compared to its original film?",
+      "correct_answer": "Toy Story 2",
+      "incorrect_answers": [
+        "Sin City: A Dame to Kill For",
+        "Speed 2: Cruise Control",
+        "Son of the Mask"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
+      "correct_answer": "Custard and Raspberry Sauce",
+      "incorrect_answers": [
+        "Strawberry Ice Cream",
+        "Cherry Yogurt",
+        "Raspberry Sorbet"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Which one of these action movies are shot entirely in one take?",
+      "correct_answer": "Victoria",
+      "incorrect_answers": [
+        "Ip Man 2",
+        "The Bourne Legacy",
+        "Leon: The Professional"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "In the 'Jurassic Park' universe, what is the name of the island that contains InGen's Site B?",
+      "correct_answer": "Isla Sorna",
+      "incorrect_answers": ["Isla Nublar", "Isla Pena", "Isla Muerta"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
+      "correct_answer": "Chicago",
+      "incorrect_answers": ["Dreamgirls", "Cabaret", "All That Jazz"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "The killer in the 1981 film 'My Bloody Valentine' wears what sort of outfit?",
+      "correct_answer": "Mining gear",
+      "incorrect_answers": ["Clown costume", "Santa suit", "Police uniform"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "What is the name of the Artificial Intelligence system in the 1983 film, 'WarGames'?",
+      "correct_answer": "War Operation Plan Response",
+      "incorrect_answers": [
+        "Self Evolving Thought Helix",
+        "Master Control Program",
+        "West Campus Analog Computer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "In the movie 'Back to the Future,' what speed does Doc Brown's DeLorean need to reach in order to travel through time?",
+      "correct_answer": "88 mph",
+      "incorrect_answers": ["77 mph", "100 mph", "70 mph"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "What is the name of the first 'Star Wars' film by release order?",
+      "correct_answer": "A New Hope",
+      "incorrect_answers": [
+        "The Phantom Menace",
+        "The Force Awakens",
+        "Revenge of the Sith"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+      "correct_answer": "Tom Bombadil",
+      "incorrect_answers": ["Strider", "Barliman Butterbur", "Celeborn"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Who played Sgt. Gordon Elias in 'Platoon' (1986)?",
+      "correct_answer": "Willem Dafoe",
+      "incorrect_answers": ["Charlie Sheen", "Matt Damon", "Johnny Depp"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+      "correct_answer": "The Muppets Take Manhattan",
+      "incorrect_answers": [
+        "The Great Muppet Caper",
+        "The Muppet Christmas Carol",
+        "The Muppet Movie"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "What does TIE stand for in reference to the TIE Fighter in 'Star Wars'?",
+      "correct_answer": "Twin Ion Engine",
+      "incorrect_answers": [
+        "Twin Iron Engine",
+        "Twin Intercepter Engine",
+        "Twin Inception Engine"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+      "correct_answer": "Gopher",
+      "incorrect_answers": ["Tigger", "Heffalumps", "Rabbit"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Who voiced the character Draco in the 1996 movie 'DragonHeart'?",
+      "correct_answer": "Sean Connery",
+      "incorrect_answers": [
+        "Dennis Quaid",
+        "Pete Postlethwaite",
+        "Brian Thompson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "What was another suggested name for, the 1985 film, Back to the Future?",
+      "correct_answer": "Spaceman From Pluto",
+      "incorrect_answers": [
+        "Hill Valley Time Travelers",
+        "The Time Travelers",
+        "The Lucky Man"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "film",
+      "question": "Which actor plays the character 'Tommy Jarvis' in 'Friday the 13th: The Final Chapter' (1984)?",
+      "correct_answer": "Corey Feldman",
+      "incorrect_answers": ["Macaulay Culkin", "Mel Gibson", "Mark Hamill"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "In the movie 'Scream' who is Ghost Face?",
+      "correct_answer": "Billy Loomis and Stu Macher",
+      "incorrect_answers": [
+        "Dewey Riley",
+        "Sidney Prescott",
+        "Archie Prescott and Philip Marv"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "What was Humphrey Bogart's middle name?",
+      "correct_answer": "DeForest",
+      "incorrect_answers": ["DeWinter", "Steven", "Bryce"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+      "correct_answer": "Plan 9 from Outer Space",
+      "incorrect_answers": [
+        "The Man from Planet X",
+        "It Came from Outer Space",
+        "The Day The Earth Stood Still"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?",
+      "correct_answer": "Verdi",
+      "incorrect_answers": ["Mozart", "Berlioz", "Brahms"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "Before 'Jurassic Park III' was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
+      "correct_answer": "Baryonyx",
+      "incorrect_answers": ["Tyrannosaurus Rex", "Velociraptor", "Suchomimus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "In 'Star Trek Nemesis', why was Praetor Shinzon created?",
+      "correct_answer": "To replace Picard as a Romulan Agent",
+      "incorrect_answers": [
+        "To destroy the Enterprise",
+        "To become Picard's friend ",
+        "To steal the Enterprise"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "What did the first moving picture depict?",
+      "correct_answer": "A galloping horse",
+      "incorrect_answers": [
+        "A woman in a dress",
+        "A man walking",
+        "A crackling fire"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "What was the first movie to ever use a Wilhelm Scream?",
+      "correct_answer": "Distant Drums",
+      "incorrect_answers": [
+        "Treasure of the Sierra Madre",
+        "The Charge at Feather River",
+        "Indiana Jones"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)? ",
+      "correct_answer": "14",
+      "incorrect_answers": ["16", "18", "20"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film 'Dirty Harry'?",
+      "correct_answer": "1971",
+      "incorrect_answers": ["1975", "1983", "1969"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "Which was the first of Alfred Hitchcock's movies to be filmed in colour?",
+      "correct_answer": "Rope",
+      "incorrect_answers": ["Psycho", "Vertigo", "Rebecca"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "In the 'Jurassic Park' universe, when did 'Jurassic Park: San Diego' begin construction?",
+      "correct_answer": "1985",
+      "incorrect_answers": ["1988", "1986", "1993"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "What three movies, in order from release date, make up the 'Dollars Trilogy'?",
+      "correct_answer": "'A Fistful of Dollars', 'For a Few Dollars More', 'The Good, the Bad, and the Ugly'",
+      "incorrect_answers": [
+        "'The Good, the Bad, and the Ugly', 'For A Few Dollars More', 'A Fistful of Dollars'",
+        "'For a Few Dollars More', 'The Good, the Bad, and the Ugly', 'A Fistful of Dollars'",
+        "'For a Few Dollars More', 'A Fistful of Dollars', 'The Good, the Bad, and the Ugly'"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+      "correct_answer": "Dave",
+      "incorrect_answers": ["John", "Will", "Carl"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "What was the wifi password given to Stephen Strange in Doctor Strange?",
+      "correct_answer": "Shambala",
+      "incorrect_answers": ["Peace", "Ancient", "Chakra"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "What was the name of the planet in 'Aliens'?",
+      "correct_answer": "LV-426",
+      "incorrect_answers": [
+        "Weyland Yutani Corporation Base",
+        "FR-838",
+        "DI-621"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie 'Avatar'?",
+      "correct_answer": "Sigourney Weaver",
+      "incorrect_answers": [
+        "Jessica Chastain",
+        "Melissa Beckett",
+        "Alyssa Monroe "
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "What did Alfred Hitchcock use as blood in the film 'Psycho'? ",
+      "correct_answer": "Chocolate syrup",
+      "incorrect_answers": ["Ketchup", "Red food coloring", "Maple syrup"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+      "correct_answer": "Beer",
+      "incorrect_answers": [
+        "Fast food",
+        "Food stamps",
+        "They weren't paid"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "film",
+      "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+      "correct_answer": "Bombardier Billy Wells",
+      "incorrect_answers": ["Freddie Mills", "Terry Spinks", "Don Cockell"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "What is the unit of electrical inductance?",
+      "correct_answer": "Henry",
+      "incorrect_answers": ["Weber", "Coulomb", "Mho"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "A comet's gaseous envelope (which creates the tail) is called what?",
+      "correct_answer": "The coma",
+      "incorrect_answers": ["The wake", "The backwash", "The ablative"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+      "correct_answer": "Urea",
+      "incorrect_answers": ["Propane", "Ethanol", "Formaldehyde"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "Which of the following is NOT a word used to describe an earthquake?",
+      "correct_answer": "Drop-slide",
+      "incorrect_answers": ["Foreshock", "Strike-slip", "Temblor"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "Which constellation contains the center of the Milky Way?",
+      "correct_answer": "Sagittarius",
+      "incorrect_answers": ["Scorpius", "Ophiuchus", "Capricornus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "Which is the chemical name of H2O?",
+      "correct_answer": "Dihydrogen Monoxide",
+      "incorrect_answers": [
+        "Ammonium chloride",
+        "Anhydrous Sodium Carbonate",
+        "Manganese dioxide"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "What is the most potent toxin known?",
+      "correct_answer": "Botulinum toxin",
+      "incorrect_answers": ["Ricin", "Cyanide", "Asbestos"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+      "correct_answer": "Shepard Tone",
+      "incorrect_answers": [
+        "Glissandro Illusion",
+        "Fransen Effect",
+        "McGurck Effect"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "What is the molecular formula of Ozone?",
+      "correct_answer": "O3",
+      "incorrect_answers": ["C6H2O6", "N2O", "SO4"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "Burning which of these metals will produce a bright white flame?",
+      "correct_answer": "Magnesium",
+      "incorrect_answers": ["Copper", "Lithium", "Lead"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "Which of these animals belongs in class Chondrichthyes?",
+      "correct_answer": "Great white shark",
+      "incorrect_answers": ["Octopus", "Killer whale", "Catfish"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "An organic compound is considered an alcohol if it has what functional group?",
+      "correct_answer": "Hydroxyl",
+      "incorrect_answers": ["Carbonyl", "Alkyl", "Aldehyde"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "What is the scientific name of the red fox?",
+      "correct_answer": "Vulpes Vulpes",
+      "incorrect_answers": ["Vulpes Redus", "Red Fox", "Vulpes Vulpie"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "Which of the following is a major muscle of the back?",
+      "correct_answer": "Trapezius",
+      "incorrect_answers": ["Trapezium", "Trapezoid", "Triquetrum"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "Which of the following is considered classical conditioning?",
+      "correct_answer": "Pavlov's dog experiments",
+      "incorrect_answers": [
+        "Skinner box experiment",
+        "Schrodinger's cat experiment",
+        "Harlow's monkey experiments"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "How many legs is it biologically impossible for a centipede to have?",
+      "correct_answer": "100",
+      "incorrect_answers": ["26", "50", "74"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "Botanically speaking, which of these fruits is NOT a berry?",
+      "correct_answer": "Strawberry",
+      "incorrect_answers": ["Blueberry", "Banana", "Concord Grape"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "What causes the sound of a heartbeat?",
+      "correct_answer": "Closure of the heart valves",
+      "incorrect_answers": [
+        "Contraction of the heart chambers",
+        "Blood exiting the heart",
+        "Relaxation of the heart chambers"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "What is the scientific name for the extinct hominin known as 'Lucy'?",
+      "correct_answer": "Australopithecus Afarensis",
+      "incorrect_answers": [
+        "Australopithecus Africanus",
+        "Australopithecus Architeuthis",
+        "Australopithecus Antaris"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "science",
+      "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+      "correct_answer": "Graviton",
+      "incorrect_answers": ["Z boson", "Tau neutrino", "Gluon"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Which of the following is NOT a passive electrical component?",
+      "correct_answer": "Transistor",
+      "incorrect_answers": ["Resistor", "Capacitor", "Inductor"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+      "correct_answer": "8 Minutes",
+      "incorrect_answers": ["6 Minutes", "2 Minutes", "12 Minutes"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Which chemical element has the lowest boiling point?",
+      "correct_answer": "Helium",
+      "incorrect_answers": ["Hydrogen", "Neon", "Nitrogen"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Where did the Great Storm of 1987 make landfall at, first?",
+      "correct_answer": "Cornwall",
+      "incorrect_answers": ["Surrey", "Wales", "The Midlands"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "On the periodic table of elements, what is the symbol for Tin?",
+      "correct_answer": "Sn",
+      "incorrect_answers": ["Ti", "Ni", "Na"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Which chemical element was originally known as Alabamine?",
+      "correct_answer": "Astatine",
+      "incorrect_answers": ["Selenium", "Antimony", "Molybdenum"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+      "correct_answer": "Dunning-Kruger effect",
+      "incorrect_answers": [
+        "Meyers-Briggs effect",
+        "Muller-Lyer effect",
+        "Freud-Hall effect"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Which element has the atomic number of 7?",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": ["Oxygen", "Hydrogen", "Neon"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "The medial meniscus forms which part of what joint in the human body?",
+      "correct_answer": "Knee",
+      "incorrect_answers": ["Elbow", "Ankle", "Shoulder"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "The Sun consists of mostly which two elements?",
+      "correct_answer": "Hydrogen and Helium",
+      "incorrect_answers": [
+        "Hydrogen and Nitrogen",
+        "Carbon and Nitrogen",
+        "Carbon and Helium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "What are the smallest blood vessels in the human body?",
+      "correct_answer": "Capillaries",
+      "incorrect_answers": ["Arterioles", "Veinules", "Lymphatics"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Which of these choices is not one of the phases of mitosis?",
+      "correct_answer": "Diplophase",
+      "incorrect_answers": ["Metaphase", "Anaphase", "Telophase"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+      "correct_answer": "Interphase",
+      "incorrect_answers": ["Prophase", "Stasis", "Telophase"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+      "correct_answer": "Beryllium",
+      "incorrect_answers": ["Gallium", "Caesium", "Mercury"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+      "correct_answer": "C18H27NO3",
+      "incorrect_answers": ["C21H23NO3", "C6H4Cl2", "C13H25NO4"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Which of these stars is the largest?",
+      "correct_answer": "UY Scuti",
+      "incorrect_answers": ["VY Canis Majoris", "Betelgeuse", "RW Cephei"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+      "correct_answer": "24",
+      "incorrect_answers": ["8", "16", "32"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "The medical condition osteoporosis affects which part of the body?",
+      "correct_answer": "Bones",
+      "incorrect_answers": ["Skin", "Brain", "Heart"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Deionized water is water with which of the following removed?",
+      "correct_answer": "Iron",
+      "incorrect_answers": ["Oxygen", "Hydrogen", "Uncharged atoms"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "science",
+      "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+      "correct_answer": "Female Flower",
+      "incorrect_answers": ["Leaves", "Male Flower", "Root Ball"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What does LASER stand for?",
+      "correct_answer": "Light amplification by stimulated emission of radiation",
+      "incorrect_answers": [
+        "Lite analysing by stereo ecorazer",
+        "Light amplifier by standby energy of radio",
+        "Life antimatter by standing entry of range"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Which is the most abundant element in the universe?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": ["Helium", "Lithium", "Oxygen"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Who is the chemical element Curium named after?",
+      "correct_answer": "Marie and Pierre Curie",
+      "incorrect_answers": [
+        "The Curiosity Rover",
+        "Curious George",
+        "Stephen Curry"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What is the standard atomic weight of a Plutonium nucleus?",
+      "correct_answer": "244",
+      "incorrect_answers": ["94", "481", "128"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What does the letter 'S' stand for in 'NASA'?",
+      "correct_answer": "Space",
+      "incorrect_answers": ["Science", "Society", "Star"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+      "correct_answer": "Nose",
+      "incorrect_answers": ["Ears", "Chin", "Neck"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What is the speed of light in a vacuum?",
+      "correct_answer": "299,792,458 m/s",
+      "incorrect_answers": [
+        "50,461 m/s",
+        "308,215,043 m/s",
+        "751,665,014,151 m/s"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Which gas forms about 78% of the Earth's atmosphere?",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": ["Oxygen", "Argon", "Carbon Dioxide"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "The human heart has how many chambers?",
+      "correct_answer": "4",
+      "incorrect_answers": ["2", "6", "3"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What is the unit of electrical resistance?",
+      "correct_answer": "Ohm",
+      "incorrect_answers": ["Mho", "Tesla", "Joule"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Which noble gas has the lowest atomic number?",
+      "correct_answer": "Helium",
+      "incorrect_answers": ["Neon", "Argon", "Krypton"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Which element has the highest melting point?",
+      "correct_answer": "Carbon",
+      "incorrect_answers": ["Tungsten", "Platinum", "Osmium"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Which of these Elements is a metalloid?",
+      "correct_answer": "Antimony",
+      "incorrect_answers": ["Tin", "Bromine", "Rubidium"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What is the largest animal currently on Earth?",
+      "correct_answer": "Blue Whale",
+      "incorrect_answers": ["Orca", "Colossal Squid", "Giraffe"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What does DNA stand for?",
+      "correct_answer": "Deoxyribonucleic Acid",
+      "incorrect_answers": [
+        "Deoxyribogenetic Acid",
+        "Deoxyribogenetic Atoms",
+        "Detoxic Acid"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Which of these bones is hardest to break?",
+      "correct_answer": "Femur",
+      "incorrect_answers": ["Cranium", "Humerus", "Tibia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What lies at the center of our galaxy?",
+      "correct_answer": "A black hole",
+      "incorrect_answers": ["A wormhole", "A supernova", "A quasar"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "Dry ice is the solid form of what substance?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": ["Nitrogen", "Ammonia", "Oxygen"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+      "correct_answer": "Sputnik 1",
+      "incorrect_answers": ["Soyuz 7K-OK", "Zenit-2", "Voskhod 3KV"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "science",
+      "question": "The asteroid belt is located between which two planets?",
+      "correct_answer": "Mars and Jupiter",
+      "incorrect_answers": [
+        "Jupiter and Saturn",
+        "Mercury and Venus",
+        "Earth and Mars"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "This Canadian television sportcaster is known for his 'Hockey Night in Canada' role, a commentary show during hockey games.",
+      "correct_answer": "Don Cherry",
+      "incorrect_answers": ["Don McKellar", "Don Taylor ", "Donald Sutherland"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Which city did the former NHL team 'The Nordiques' originiate from?",
+      "correct_answer": "Quebec City",
+      "incorrect_answers": ["Houston", "Montreal", "New York"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "In golf, what name is given to a hole score of two under par?",
+      "correct_answer": "Eagle",
+      "incorrect_answers": ["Birdie", "Bogey", "Albatross"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+      "correct_answer": "1-7",
+      "incorrect_answers": ["1-5", "1-6", "2-6"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Which team won 2014 FIFA World Cup in Brazil?",
+      "correct_answer": "Germany",
+      "incorrect_answers": ["Argentina", "Brazil", "Netherlands"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "In what sport is a 'shuttlecock' used?",
+      "correct_answer": "Badminton",
+      "incorrect_answers": ["Table Tennis", "Rugby", "Cricket"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "What year did the New Orleans Saints win the Super Bowl?",
+      "correct_answer": "2010",
+      "incorrect_answers": ["2008", "2009", "2011"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+      "correct_answer": "7 - 1",
+      "incorrect_answers": ["0 - 1", "3 - 4", "16 - 0"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Who won the UEFA Champions League in 2016?",
+      "correct_answer": "Real Madrid C.F.",
+      "incorrect_answers": [
+        "FC Bayern Munich",
+        "Atletico Madrid",
+        "Manchester City F.C."
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Which English football club has the nickname 'The Foxes'?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": [
+        "Northampton Town",
+        "Bradford City",
+        "West Bromwich Albion"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Which player holds the NHL record of 2,857 points?",
+      "correct_answer": "Wayne Gretzky",
+      "incorrect_answers": ["Mario Lemieux ", "Sidney Crosby", "Gordie Howe"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Which year did Jenson Button won his first ever Formula One World Drivers' Championship?",
+      "correct_answer": "2009",
+      "incorrect_answers": ["2010", "2007", "2006"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+      "correct_answer": "Michael Schumacher",
+      "incorrect_answers": ["Ayrton Senna", "Fernando Alonso", "Jim Clark"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Who won the UEFA Champions League in 2017?",
+      "correct_answer": "Real Madrid C.F.",
+      "incorrect_answers": ["Atletico Madrid", "AS Monaco FC", "Juventus F.C."]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Who did Steven Gerrard win the Champions League with?",
+      "correct_answer": "Liverpool",
+      "incorrect_answers": ["Real Madrid", "Chelsea", "Man City"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+      "correct_answer": "Brooklyn",
+      "incorrect_answers": ["Las Vegas", "Boston", "Seattle"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "In bowling, what is the term used for getting three consecutive strikes?",
+      "correct_answer": "Turkey",
+      "incorrect_answers": ["Flamingo", "Birdie", "Eagle"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
+      "correct_answer": "August 21",
+      "incorrect_answers": ["August 23", "August 19", "August 17"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Who won the 2015 Formula 1 World Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": ["Nico Rosberg", "Sebastian Vettel", "Jenson Button"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "sport",
+      "question": "Who won the 2017 Formula One World Drivers' Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": [
+        "Sebastian Vettel",
+        "Nico Rosberg",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Which country is hosting the 2022 FIFA World Cup?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": ["Uganda", "Vietnam", "Bolivia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Why was The Green Monster at Fenway Park was originally built?",
+      "correct_answer": "To prevent viewing games from outside the park.",
+      "incorrect_answers": [
+        "To make getting home runs harder.",
+        "To display advertisements.",
+        "To provide extra seating."
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Who is Manchester United's top premier league goal scorer?",
+      "correct_answer": "Wayne Rooney",
+      "incorrect_answers": ["Sir Bobby Charlton", "Ryan Giggs", "David Beckham"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "What is the nickname of Northampton town's rugby union club?",
+      "correct_answer": "Saints",
+      "incorrect_answers": ["Harlequins", "Saracens", "Wasps"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+      "correct_answer": "James Rodriguez",
+      "incorrect_answers": ["Thomas Muller", "Lionel Messi", "Neymar"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+      "correct_answer": "Madeira",
+      "incorrect_answers": ["Terceira", "Santa Maria", "Porto Santo"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+      "correct_answer": "13",
+      "incorrect_answers": ["11", "20", "22"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+      "correct_answer": "American Football",
+      "incorrect_answers": ["Wrestling", "Archery", "Horse-Racing"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+      "correct_answer": "Toronto Marlies",
+      "incorrect_answers": [
+        "Toronto Rock",
+        "Toronto Argonauts",
+        "Toronto Wolfpack"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+      "correct_answer": "84.39m",
+      "incorrect_answers": ["100m", "100yd", "109.36yd"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "A stimpmeter measures the speed of a ball over what surface?",
+      "correct_answer": "Golf Putting Green",
+      "incorrect_answers": [
+        " Football Pitch",
+        "Cricket Outfield",
+        "Pinball Table"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+      "correct_answer": "Owen Hart",
+      "incorrect_answers": ["Chris Benoit", "Lex Luger", "Al Snow"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+      "correct_answer": "India",
+      "incorrect_answers": ["Australia", "Turkey", "Cambodia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "In a game of snooker, what colour ball is worth 3 points?",
+      "correct_answer": "Green",
+      "incorrect_answers": ["Yellow", "Brown", "Blue"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League",
+      "correct_answer": "38",
+      "incorrect_answers": ["51", "49", "22"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Which nation hosted the FIFA World Cup in 2006?",
+      "correct_answer": "Germany",
+      "incorrect_answers": ["United Kingdom", "Brazil", "South Africa"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+      "correct_answer": "Porsche",
+      "incorrect_answers": ["Toyota", "Audi", "Ferrari"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "How many scoring zones are there on a conventional dart board?",
+      "correct_answer": "82",
+      "incorrect_answers": ["62", "42", "102"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+      "correct_answer": "Jose Fernandez",
+      "incorrect_answers": ["Jacob deGrom", "Shelby Miller", "Matt Harvey"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "sport",
+      "question": "What is the highest belt you can get in Taekwondo?",
+      "correct_answer": "Black",
+      "incorrect_answers": ["White", "Red", "Green"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+      "correct_answer": "Vladivostok",
+      "incorrect_answers": ["Rostov-on-Don", "Yekaterinburg", "Kaliningrad"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+      "correct_answer": "Mazda",
+      "incorrect_answers": ["Toyota", "Subaru", "Nissan"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "With which doubles partner did John McEnroe have most success?",
+      "correct_answer": "Peter Fleming",
+      "incorrect_answers": ["Mark Woodforde", "Michael Stich", "Mary Carillo"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "What is 'The Sport of Kings'?",
+      "correct_answer": "Horse Racing",
+      "incorrect_answers": ["Chess", "Jousting", "Fencing"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "In Canadian football, scoring a rouge is worth how many points?",
+      "correct_answer": "1",
+      "incorrect_answers": ["2", "3", "4"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
+      "correct_answer": "Hammer",
+      "incorrect_answers": ["Wrench", "Drill", "Screwdriver"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "What is the full name of the footballer 'Cristiano Ronaldo'?",
+      "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+      "incorrect_answers": [
+        "Cristiano Ronaldo los Santos Diego",
+        "Cristiano Armando Diego Ronaldo",
+        "Cristiano Luis Armando Ronaldo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which player 'kung-fu kicked' a Crystal Palace fan in January 1995?",
+      "correct_answer": "Eric Cantona",
+      "incorrect_answers": ["David Seamen", "Ashley Cole", "Mark Hughes"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which city features all of their professional sport teams' jersey's with the same color scheme?",
+      "correct_answer": "Pittsburgh",
+      "incorrect_answers": ["New York", "Seattle", "Tampa Bay"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "correct_answer": "DING Ning (China)",
+      "incorrect_answers": [
+        "LI Xiaoxia (China)",
+        "Ai FUKUHARA (Japan)",
+        "Song KIM (North Korea)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+      "correct_answer": "Portugal",
+      "incorrect_answers": ["West Germany", "Soviet Union", "Brazil"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+      "correct_answer": "Nine",
+      "incorrect_answers": ["Ten", "Seven", "Eight"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Where was the Games of the XXII Olympiad held?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Barcelona", "Tokyo", "Los Angeles"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+      "correct_answer": "1991",
+      "incorrect_answers": ["1990", "2000", "1987"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which English football team is nicknamed 'The Tigers'?",
+      "correct_answer": "Hull City",
+      "incorrect_answers": ["Cardiff City", "Bristol City", "Manchester City"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which year was the third Super Bowl held?",
+      "correct_answer": "1969",
+      "incorrect_answers": ["1968", "1971", "1970"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "The AHL affiliate team of the Boston Bruins is named what?",
+      "correct_answer": "Providence Bruins",
+      "incorrect_answers": [
+        "New Haven Bruins",
+        "Cambridge Bruins",
+        "Hartford Bruins"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Who is Manchester United's leading appearance maker?",
+      "correct_answer": "Ryan Giggs",
+      "incorrect_answers": ["David Beckham", "Wayne Rooney", "Eric Cantona"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "correct_answer": "Ma Long (China)",
+      "incorrect_answers": [
+        "Zhang Jike (China)",
+        "Jun Mizutani (Japan)",
+        "Vladimir Samsonov (Belarus)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "sport",
+      "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+      "correct_answer": "Pelle",
+      "incorrect_answers": ["Insigne", "Barzagli", "Giaccherini"]
+    }
+  ]
+}
